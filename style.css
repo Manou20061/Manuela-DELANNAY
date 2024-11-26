@@ -1,0 +1,51 @@
+h1{
+	color: #92140c;
+	font-family: "Lugrasimo", cursive;
+	font-size:100px;
+	background-color: #001d3d;
+	text-align: center;
+}
+	 
+h2{
+	color: #bc3908;
+	font-family: "Oswald", sans-serif;
+	font-size:70px;
+	text-align: center;
+}
+body{
+
+	background-color: #e3f2fd;
+}
+
+
+p{
+	font-family: "Josefin Sans", sans-serif;
+	font-size:18px;
+}
+
+#card {
+	background-color: #bdb2ff;
+	border-radius: 20px;
+}
+
+#emilia {
+	height:300px ;
+	margin:20px auto;
+	border-radius: 40%;
+}
+
+#texte{
+
+	margin:120px;
+	padding: 40px;
+}
+#photos img{
+	border-radius: 15%;
+}
+#horreur {
+	color: #03045e;
+	font-family: "Protest Revolution", sans-serif;
+	font-size:80px;
+	text-align: center
+
+}
